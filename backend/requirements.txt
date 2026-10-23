@@ -1,0 +1,6 @@
+Flask>=3.0,<4.0
+Pillow>=10.0
+numpy>=1.26
+python-dotenv>=1.0
+# TensorFlow can be platform/Python-version sensitive; install a compatible release for your machine.
+tensorflow>=2.16
